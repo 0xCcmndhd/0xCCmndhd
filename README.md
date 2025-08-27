@@ -1,33 +1,30 @@
 # Aaron Jefferson
-## Software Engineer & Data Analyst | Building Scalable AI/ML Infrastructure
+Software/Platform Engineer • Data Analytics • IAM/Authorization
 
-A systems-focused engineer building production-grade infrastructure and automation tools for modern development workflows.
+A systems-focused engineer building secure, automation-first platforms and AI/ML tooling. I like turning ambiguous requirements into documented, reproducible systems: private cloud on Proxmox, containerized services, per‑app SSO (Authelia + Caddy), and acceptance‑check workflows.
 
-### 🛠️ Core Competencies & Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Current focus: policy-driven authorization (AWS Verified Permissions/Cedar, OPA/Rego), reliable DevEx, and practical LLM stacks.
+- Certifications (in progress): Hugging Face LLMs + Agents; Google Data Analytics Professional.
+- Location: Philadelphia, PA • Open to Software, Platform/IAM, or Data roles.
 
----
+## 🚀 Featured Work
+| Infrastructure & IAM | Data & LLM |
+| --- | --- |
+| [dev-environment-automation](https://github.com/0xCcmndhd/dev-environment-automation) — Proxmox homelab + Docker stacks, per‑app SSO (Authelia), reverse proxy (Caddy), acceptance checks, and GPU AI profiles. | [data-analytics-portfolio](https://github.com/0xCcmndhd/data-analytics-portfolio) — Python/SQL analyses and dashboards; reproducible notebooks and lightweight ETL (WIP). |
+| iam-authorization-poc — AWS Verified Permissions (Cedar) RBAC/ABAC demo with PEP/PDP pattern; decision logs; OPA/Rego comparison (WIP). | [huggingface-agent-projects](https://github.com/0xCcmndhd/huggingface-agent-projects) — Practical LLM/Agent experiments across local backends (WIP). |
 
-### 🚀 Featured Projects
+## 🧰 Core Stack
+- Languages: Python, SQL, Bash, JavaScript, C++
+- Cloud/DevOps: AWS, Docker/Compose, Proxmox, Linux, Git, CI/CD, Tailscale
+- Security/IAM: OIDC/OAuth2, JWT, Authelia SSO, Caddy reverse proxy, zero‑trust networking; Cedar/AVP + OPA/Rego (ramping)
+- Data/AI: Pandas, Jupyter, Tableau, ETL; Ollama, llama.cpp, Oobabooga; Open WebUI
+- Practices: IaC-ish templating, deny‑by‑default, acceptance checks, clear runbooks
 
-| Infrastructure & DevOps | Data & Analytics |
-| :--- | :--- |
-| **[Shell Environment Manager](https://github.com/0xCcmndhd/setup_zsh_script)**: A one-command script to deploy a fully configured Zsh, Fish, or Tmux development environment. | **[Data Analytics Showcase](https://github.com/0xCcmndhd/data-analytics-projects)**: In-depth analysis of public datasets using SQL, Python (Pandas), and Tableau from my Google certification. |
-| **[Homelab as Code](https://github.com/0xCcmndhd/homelab-infrastructure)**: Declarative Docker Compose files for deploying a full media and monitoring stack on Proxmox. |  |
+## 📌 Now
+- Architecting a private cloud with GPU‑accelerated AI services at Waterhouse Solutions (my company).
+- Finishing B.S. in Mathematics & Computer Science (part‑time senior) at Temple University.
+- Building an IAM authorization POC (AVP/Cedar + OPA) to demonstrate PDP/PEP patterns.
 
-
-### 💼 What I'm Doing Now
-- ☁️ Architecting a private cloud and GPU-accelerated AI services at Waterhouse Solutions.
-- 🎓 Finishing my B.S. in Computer Science at Temple University.
-- 🎯 Actively seeking full-time roles in Software Engineering, Data Analytics, or DevOps.
-
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronjefferson/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajefferson1111@pm.me)
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/aaronjefferson
+- Email: aJefferson1111@protonmail.ch
