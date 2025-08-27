@@ -1,10 +1,10 @@
-# Aaron Jefferson
+# Aaron Jefferson (he/they)
 Software/Platform Engineer • Data Analytics • IAM/Authorization
 
-A systems-focused engineer building secure, automation-first platforms and AI/ML tooling. I like turning ambiguous requirements into documented, reproducible systems: private cloud on Proxmox, containerized services, per‑app SSO (Authelia + Caddy), and acceptance‑check workflows.
+Systems-focused engineer building secure, automation-first platforms and AI/ML tooling. I turn ambiguous requirements into documented, reproducible systems: Proxmox private cloud, containerized services, per‑app SSO (Authelia + Caddy), and acceptance‑check workflows.
 
-- Current focus: policy-driven authorization (AWS Verified Permissions/Cedar, OPA/Rego), reliable DevEx, and practical LLM stacks.
-- Certifications (in progress): Hugging Face LLMs + Agents; Google Data Analytics Professional.
+- Focus: policy-driven authorization (AWS Verified Permissions/Cedar, OPA/Rego), strong DevEx, and practical LLM stacks.
+- Certifications (in progress): Hugging Face — LLMs & Agents; Google Data Analytics Professional.
 - Location: Philadelphia, PA • Open to Software, Platform/IAM, or Data roles.
 
 ## 🚀 Featured Work
